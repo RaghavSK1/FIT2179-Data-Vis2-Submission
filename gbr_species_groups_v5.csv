@@ -1,0 +1,16 @@
+Group,Category,KnownSpecies,Condition2024,ConditionScore,TrendScore,CulturalImportance,XPos,AdaptScore
+Bony Fishes,Fish,1625,Good,3,0,4,3.3,7.1
+All Invertebrates,Invertebrates,12000,Poor,2,-1,2,1.85,5.1
+Hard Corals,Coral,411,Poor,2,1,3,2.15,4.8
+Macroalgae,Plants/Algae,600,Good,3,0,1,3.2,8.1
+Seagrasses,Plants/Algae,15,Good,3,1,4,3.55,5.7
+Mangroves,Plants/Algae,44,Very Good,4,0,4,4.0,7.8
+Sharks & Rays,Fish,125,Very Poor,2,-1,3,1.65,3.2
+Marine Turtles,Reptiles,6,Poor,2,0,5,2.35,2.8
+Seabirds,Birds,21,Very Poor,2,-1,3,1.45,4.1
+Whales & Dolphins,Mammals,30,Good,3,1,4,3.05,4.3
+Dugongs,Mammals,1,Poor,2,-1,5,2.55,2.1
+Sea Snakes,Reptiles,17,Very Good,3,0,2,3.8,6.2
+Shorebirds,Birds,40,Very Poor,2,-1,2,1.25,4.6
+Plankton/Microbes,Plankton,5000,Good,3,0,1,2.9,9.0
+Crocodiles,Reptiles,1,Very Good,3,0,4,4.05,5.4

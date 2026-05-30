@@ -1,0 +1,17 @@
+Threat,Visited_GBR,Mean_Score
+Marine Debris,Has Visited,4.122
+Marine Debris,Never Visited,4.414
+Crown-of-Thorns Starfish,Has Visited,4.338
+Crown-of-Thorns Starfish,Never Visited,4.457
+Agricultural Runoff,Has Visited,3.978
+Agricultural Runoff,Never Visited,4.341
+Coastal Development,Has Visited,4.045
+Coastal Development,Never Visited,3.991
+Coral Bleaching,Has Visited,4.026
+Coral Bleaching,Never Visited,4.486
+Climate Change,Has Visited,3.901
+Climate Change,Never Visited,3.980
+Marine Heatwaves,Has Visited,3.989
+Marine Heatwaves,Never Visited,3.984
+Mining,Has Visited,3.583
+Mining,Never Visited,4.231
